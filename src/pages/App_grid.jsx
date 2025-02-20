@@ -2,11 +2,11 @@ import React from "react";
 import "./AppGrid.css";
 
 const appsData = [
-  { name: "Google", link: "https://www.google.com" },
-  { name: "YouTube", link: "https://www.youtube.com" },
-  { name: "GitHub", link: "https://github.com" },
-  { name: "LinkedIn", link: "https://www.linkedin.com" },
-  { name: "Twitter", link: "https://twitter.com" },
+  { name: "Time", link: "https://time-ash.vercel.app/" },
+  { name: "Filter Data", link: "https://filterdataash.vercel.app/" },
+  { name: "Song Player", link: "https://filterdataash.vercel.app/" },
+//   { name: "LinkedIn", link: "https://www.linkedin.com" },
+//   { name: "Twitter", link: "https://twitter.com" },
 ];
 
 const AppGrid = () => {
